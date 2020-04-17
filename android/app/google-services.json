@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106970262574",
+    "firebase_url": "https://bidding-flutter-app.firebaseio.com",
+    "project_id": "bidding-flutter-app",
+    "storage_bucket": "bidding-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106970262574:android:0531687436bd8d4af383bf",
+        "android_client_info": {
+          "package_name": "nirol.com.bidding_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106970262574-pjhe6b1p09li79eteallb1bsm64oa7o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-Okruwkd1rmgbDoqIiovyABX7CIBThQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106970262574-pjhe6b1p09li79eteallb1bsm64oa7o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
